@@ -5,7 +5,7 @@ Teste Prático para Desenvolvedor Backend Pleno
 
 Desenvolvimento de API RESTful
 
-Desenvolva uma API RESTful usando Node.js e Express que realize operações CRUD (Create, Read, Update, Delete) em um banco de dados de sua escolha (SQL ou NoSQL) utilizando o Sequelize como ORM. Esta API deve incluir rotas para manipular recursos relacionados a um modelo de "Usuário".
+Desenvolva uma API RESTful usando Node.js e Express que realize operações CRUD (Create, Read, Update, Delete) com o banco de dados mysql utilizando o Sequelize como ORM. Esta API deve incluir rotas para manipular recursos relacionados a um modelo de "Usuário".
 
     • Tempo estimado: 1,5 dias úteis
       
