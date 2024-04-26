@@ -3,8 +3,6 @@ Avaliação para uma posição de desenvolvedor backend pleno
 
 Teste Prático para Desenvolvedor Backend Pleno
 
-Parte 1: Exercícios de Codificação
-
 Desenvolvimento de API RESTful
 
 Desenvolva uma API RESTful usando Node.js e Express que realize operações CRUD (Create, Read, Update, Delete) em um banco de dados de sua escolha (SQL ou NoSQL) utilizando o Sequelize como ORM. Esta API deve incluir rotas para manipular recursos relacionados a um modelo de "Usuário".
